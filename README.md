@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Praveen Shanker 👋
 
-<!--
-**praveenshanker/praveenshanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur | Aspiring Developer | Building Practical Business Solutions
 
-Here are some ideas to get you started:
+I'm interested in using technology to solve real-world business problems. I'm exploring web development and building digital tools for restaurant operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working On
+
+- Lazy Panda Manager — Restaurant sales, expenses, inventory and analytics.
+- Restaurant Tools — POS workflows, digital menus and stock management.
+- Learning & Building — JavaScript, React and Supabase.
+
+🧰 Interests
+
+- Web Development
+- Restaurant Technology
+- Business Management Systems
+- AI & Automation
+- Sales and Inventory Analytics
+
+🌐 Project
+
+"Lazy Panda Manager" (https://lazypandamanager2.netlify.app)
+
+🤝 Connect
+
+"GitHub – @praveenshanker" (https://github.com/praveenshanker)
+
+---
+
+Learning by building. Turning everyday business challenges into useful digital solutions.
